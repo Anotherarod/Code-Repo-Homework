@@ -10,9 +10,9 @@ Here are a few issues I found that needed to be addressed.
 
 1. The title was just "website," so that was the first give away and the simplest catch.
 
-2.  On line 11, a div class="header"> was changed out with a simple <header> tag.
+2.  On line 11, a div class="header"> was changed out with a simple header tag.
   
-3.  <div> open tags placed after closing <div> tags that didn't have an information designation.
+3.  <div> open tags placed after closing div tags that didn't have an information designation.
   
 4. Not one <img> tag carried and "alt=" reference so I input those accodingly, hopefully I didn't miss any :)
 
