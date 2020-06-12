@@ -16,7 +16,7 @@ Here are a few issues I found that needed to be addressed.
   
 4. Not one <img> tag carried and "alt=" reference so I input those accodingly, hopefully I didn't miss any :)
 
-5. Line 74, I saw a <div class="footer"> which I thought was strange and after messing around and removing it, it woudn't populate. I then had to go into style.css and remove the bullet points for the footer tags at the bottom. After saving, it showed up just fine.
+5. Line 74, I saw a, div class="footer", which I thought was strange and after messing around and removing it, it woudn't populate. I then had to go into style.css and remove the bullet points for the footer tags at the bottom. After saving, it showed up just fine.
   
 6. On line 57 of the style.css file I realized there was an <img> link in the background-image designation. Still new but so far I have yet to see an <img> tag or file in the style.css folder. So far they have always been placed into the html file and the parameters of the <img> tag would be defined in the style.css file.
     
