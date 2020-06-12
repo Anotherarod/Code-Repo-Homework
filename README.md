@@ -2,7 +2,7 @@ This assignment was challenging to say the least!
 
 My view of what was needed to be done is something we learned early, and thats to leave the html/code cleaner than when you found it.
 
-Align header, body, nav, div,H1,2,or3,etc into a sequentiual flow withot alot of traffic on the page so to speak for readability purposes.
+Align header, body, nav, div,H1,2,or3,etc into a sequentiual flow withot alot of traffic on the page so to speak, for readability purposes.
 
 I encountered many tags that I felt were unnecessary and didn't actually effect the website.
 
